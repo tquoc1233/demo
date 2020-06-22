@@ -1,0 +1,34 @@
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+	<channel>
+		<item>
+			<title>2</title>
+			<author>荒川区</author>
+			<pubDate>2020-06-23T02:44:16Z</pubDate>
+			<content:encoded>
+				<![CDATA[
+              	
+	  			]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>1</title>
+			<author>荒川区</author>
+			<pubDate>2020-06-22T02:44:16Z</pubDate>
+			<content:encoded>
+				<![CDATA[
+              	
+	  			]]>
+			</content:encoded>
+		</item>
+		<item>
+			<title>6</title>
+			<author>荒川区</author>
+			<pubDate>2020-06-24T02:44:16Z</pubDate>
+			<content:encoded>
+				<![CDATA[
+              	
+	  			]]>
+			</content:encoded>
+		</item>
+	</channel>
+</rss>
