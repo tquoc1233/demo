@@ -1,47 +1,17 @@
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-	<channel>
-		<item>
-			<title>twitter</title>
-			<pubDate>2020-06-26T04:04:00+09:00</pubDate>
-			<content:encoded>
-				<![CDATA[><img alt="" src="http://pub210.dev12.local/rss/images/image_path_1a120200623102426.jpg" />]]>
-			</content:encoded>
-		</item>
-		<item>
-			<title>zzzzzzzzzzzzzzzzzz</title>
-			<pubDate>2020-06-23T01:03:00+09:00</pubDate>
-			<content:encoded>
-				<![CDATA[><img alt="" src="http://pub210.dev12.local/rss/images/image_path_1120200623102235.jpg" />]]>
-			</content:encoded>
-		</item>
-		<item>
-			<title>13123213fd12321312312312312312312312321</title>
-			<pubDate>2020-06-22T12:21:00+09:00</pubDate>
-			<content:encoded>
-				<![CDATA[><img alt="" src="http://pub210.dev12.local/rss/images/image_path_1120200622231549.jpg" />]]>
-			</content:encoded>
-		</item>
-		<item>
-			<title>123123213123213213</title>
-			<pubDate>2020-06-23T12:12:00+09:00</pubDate>
-			<content:encoded></content:encoded>
-		</item>
-		<item>
-			<title>出産したらすみやかに、「母と子の保健バッグ」に入っている「出生通知票（はがき）」を送ってください。
-これをもとに、保健師や助産師が新生児訪問をします。
-なお、転入等で出生通知票がない方は、電話でお問合せください。</title>
-			<pubDate>2020-06-15T01:01:00+09:00</pubDate>
-			<content:encoded></content:encoded>
-		</item>
-		<item>
-			<title>◆荒川区スポーツチャレンジデー2019今年の対戴相手はつうけ立つ、世界 3回目の1兆戦となる今回は、世界に舞台を移し海外の自治体と参加率を競います。対戦相手は、 ブラジル・アラカジュ市てす。 チャレンジデーは1週問後の月加日（水）です。</title>
-			<pubDate>2020-06-15T01:01:00+09:00</pubDate>
-			<content:encoded></content:encoded>
-		</item>
-		<item>
-			<title>test</title>
-			<pubDate>2020-06-18T00:00:00+09:00</pubDate>
-			<content:encoded></content:encoded>
-		</item>
-	</channel>
-</rss>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel>
+	<item>
+	<title>cdfsdfsdfsdfsdfsdf</title>
+	<pubDate>2020-06-24T02:02:00+09:00</pubDate>
+	<content:encoded><![CDATA[
+	<img alt="" src="http://pub210.dev12.local/rss/images/image_path_1120200623172530.jpg" />
+	]]></content:encoded>
+    </item>
+
+	<item>
+	<title>123213123123</title>
+	<pubDate>2020-06-24T01:01:00+09:00</pubDate>
+	<content:encoded><![CDATA[
+	<img alt="" src="http://pub210.dev12.local/rss/images/image_path_1420200623172504.jpg" />
+	]]></content:encoded>
+    </item>
+</channel></rss>
