@@ -1,17 +1,9 @@
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel>
-	<item>
-	<title>cdfsdfsdfsdfsdfsdf</title>
-	<pubDate>2020-06-24T02:02:00+09:00</pubDate>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><item>
+	<title>11</title>
+	<pubDate>2020-06-22T01:01:00+09:00</pubDate>
+	<author>荒川区Facebook</author>
 	<content:encoded><![CDATA[
-	<img alt="" src="http://pub210.dev12.local/rss/images/image_path_1120200623172530.jpg" />
+		https://www.glode.co.jp/_gh/images/a1.jpg
 	]]></content:encoded>
-    </item>
-
-	<item>
-	<title>123213123123</title>
-	<pubDate>2020-06-24T01:01:00+09:00</pubDate>
-	<content:encoded><![CDATA[
-	<img alt="" src="http://pub210.dev12.local/rss/images/image_path_1420200623172504.jpg" />
-	]]></content:encoded>
-    </item>
+</item>
 </channel></rss>
