@@ -1,21 +1,18 @@
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel>
-<item>
-	<title>test br</tittle>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><item>
+	<title>adsadsadsad<br />
+67896786867867867</title>
 	<pubDate>2020-06-25T01:01:00+09:00</pubDate>
-	<author>荒川区Twitter</author>
+	<author>荒川区Facebook</author>
 	<content:encoded><![CDATA[
-		<p>first line<br/>second line</p>
-		<img alt="" src="https://www.upsieutoc.com/images/2020/06/25/17df42acd0141d706.jpg" />
+		<p>111111111111111<br /> 33333333333<p>
 	]]></content:encoded>
 </item>
 <item>
-	<title>12312</tittle>
-	<pubDate>2020-06-25T01:01:00+09:00</pubDate>
-	<author>荒川区Twitter</author>
+	<title>uuuuuuuuuuuuuuuuuuuuuuu</title>
+	<pubDate>2020-06-24T01:01:00+09:00</pubDate>
+	<author>荒川区Facebook</author>
 	<content:encoded><![CDATA[
-		<p>first line<br/>second line</p>
-		<p>1111111111<br/>second line</p>
-		<img alt="" src="https://www.upsieutoc.com/images/2020/06/25/17df42acd0141d706.jpg" />
+		
 	]]></content:encoded>
 </item>
 </channel></rss>
