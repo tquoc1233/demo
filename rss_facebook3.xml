@@ -5,7 +5,7 @@
 	<content:encoded><![CDATA[
 		
 	]]></content:encoded>
-	<description><![CDATA[<html><body>Any code html is valid here like &npsb; 
+	<description><![CDATA[<html><body>Any code html is valid here like <br /> 
  and what ever you want to transfer</body></html>]]></description>
 </item>
 </channel></rss>
