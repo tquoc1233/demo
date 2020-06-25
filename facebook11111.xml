@@ -1,9 +1,10 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel>
 <item>
-	<title>first line&lt;br&gt;second line</title>
+	
 	<pubDate>2020-06-25T01:01:00+09:00</pubDate>
 	<author>荒川区Twitter</author>
 	<content:encoded><![CDATA[
+		<p>first line<br>second line</p>
 		<img alt="" src="https://www.upsieutoc.com/images/2020/06/25/17df42acd0141d706.jpg" />
 	]]></content:encoded>
 </item>
