@@ -1,23 +1,6 @@
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><item>
-	<title>8888888
-hinh3</title>
-	<pubDate>2020-06-25T01:01:00+09:00</pubDate>
-	<author>荒川区Twitter</author>
-	<content:encoded><![CDATA[
-		<img alt="" src="https://www.upsieutoc.com/images/2020/06/25/Snake_River_5mb-1.jpg" />
-	]]></content:encoded>
-</item>
-	<item>
-	<title>22222
-hinh2</title>
-	<pubDate>2020-06-25T01:01:00+09:00</pubDate>
-	<author>荒川区Twitter</author>
-	<content:encoded><![CDATA[
-		<img alt="" src="https://raw.githubusercontent.com/gdit-for-cms/test-cms/master/rss/images/image_path_1Meteosat7-full-scan-3MB20200624195854.jpg" />
-	]]></content:encoded>
-</item>
-		<item>
-	<title>hinh1</title>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel>
+<item>
+	<title>first line&lt;br&gt;second line</title>
 	<pubDate>2020-06-25T01:01:00+09:00</pubDate>
 	<author>荒川区Twitter</author>
 	<content:encoded><![CDATA[
