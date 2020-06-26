@@ -1,26 +1,10 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><item>
-	<title>adsadsadsad<br />
-67896786867867867</title>
+	<title>test1</title>
 	<pubDate>2020-06-25T01:01:00+09:00</pubDate>
 	<author>荒川区Facebook</author>
 	<content:encoded><![CDATA[
-		<p>111111111111111<br /> 33333333333<p>
-	]]></content:encoded>
-</item>
-<item>
-	<title>uuuuuuuuuu&lt;br /&gt;uuuuuuuuuuuuu</title>
-	<pubDate>2020-06-24T01:01:00+09:00</pubDate>
-	<author>荒川区Facebook</author>
-	<content:encoded><![CDATA[
-		
-	]]></content:encoded>
-</item>
-<item>
-	<title> </title>
-	<pubDate>2020-06-24T01:01:00+09:00</pubDate>
-	<author>荒川区Facebook</author>
-	<content:encoded><![CDATA[
-		<p>4444444444444444<br /> 33333333333<p>
+		<img alt="" src="https://www.glode.co.jp/_gh/images/a1.jpg" />
+		<img alt="" src="https://image.thanhnien.vn/1080/uploaded/tuyenth/2019_08_05/f09fcb108d6019817a5c511744350e69d3c40682_rkcn.jpg" />
 	]]></content:encoded>
 </item>
 </channel></rss>
