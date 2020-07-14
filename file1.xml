@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF 
+	xmlns="http://purl.org/rss/1.0/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xml:lang="ja">
+	<channel rdf:about="http://www.pref.yamanashi.jp/writter/test_autolink0714_1.html">
+		<title>CMS8341v23デモ test_autolink0714_1</title>
+		<link>http://www.pref.yamanashi.jp/writter/test_autolink0714_1.html</link>
+		<description></description>
+		<items>
+			<rdf:Seq>
+
+				<rdf:li rdf:resource="http://www.pref.yamanashi.jp/writter/test_rss0714_1.html"/>
+
+				<rdf:li rdf:resource="http://www.pref.yamanashi.jp/writter/test_rss0714_2.html"/>
+
+				<rdf:li rdf:resource="http://www.pref.yamanashi.jp/writter/test_rss0714_3.html"/>
+
+				<rdf:li rdf:resource="http://www.pref.yamanashi.jp/writter/test_rss0714_4.html"/>
+
+			</rdf:Seq>
+		</items>
+	</channel>
+
+	<item rdf:about="http://www.pref.yamanashi.jp/writter/test_rss0714_1.html">
+		<title>test_rss0714_1</title>
+		<link>http://www.pref.yamanashi.jp/writter/test_rss0714_1.html</link>
+		<description></description>
+		<dc:creator></dc:creator>
+		<dc:subject>te1</dc:subject>
+		<dc:publisher>CMS8341v23デモ</dc:publisher>
+		<dc:contributor></dc:contributor>
+		<dc:date>2020-07-14T10:30:31+09:00</dc:date>
+	</item>
+
+	<item rdf:about="http://www.pref.yamanashi.jp/writter/test_rss0714_2.html">
+		<title>test_rss0714_2</title>
+		<link>http://www.pref.yamanashi.jp/writter/test_rss0714_2.html</link>
+		<description></description>
+		<dc:creator></dc:creator>
+		<dc:subject>te1</dc:subject>
+		<dc:publisher>CMS8341v23デモ</dc:publisher>
+		<dc:contributor></dc:contributor>
+		<dc:date>2020-07-14T10:56:43+09:00</dc:date>
+	</item>
+
+	<item rdf:about="http://www.pref.yamanashi.jp/writter/test_rss0714_3.html">
+		<title>test_rss0714_3</title>
+		<link>http://www.pref.yamanashi.jp/writter/test_rss0714_3.html</link>
+		<description></description>
+		<dc:creator></dc:creator>
+		<dc:subject>te1</dc:subject>
+		<dc:publisher>CMS8341v23デモ</dc:publisher>
+		<dc:contributor></dc:contributor>
+		<dc:date>2020-07-14T11:25:34+09:00</dc:date>
+	</item>
+
+	<item rdf:about="http://www.pref.yamanashi.jp/writter/test_rss0714_4.html">
+		<title>test_rss0714_4</title>
+		<link>http://www.pref.yamanashi.jp/writter/test_rss0714_4.html</link>
+		<description></description>
+		<dc:creator></dc:creator>
+		<dc:subject>te1</dc:subject>
+		<dc:publisher>CMS8341v23デモ</dc:publisher>
+		<dc:contributor></dc:contributor>
+		<dc:date>2020-07-14T11:37:30+09:00</dc:date>
+	</item>
+
+</rdf:RDF>
