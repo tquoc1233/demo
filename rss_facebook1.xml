@@ -1,11 +1,25 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel>
 	<item>
-		<title> </title>
-		<description><![CDATA[this is <b>bold</b>]]></description>
+		<title>cvcxxc</title>
 		<pubDate>2020-06-25T01:01:00+09:00</pubDate>
-		<author>荒川区Twitter</author>
+		<author>b荒川区Twitter</author>
 		<content:encoded><![CDATA[
 
+		]]></content:encoded>
+	</item>
+	<item>
+		<title>jjjvcxxc</title>
+		<pubDate>2020-06-25T01:01:00+09:00</pubDate>
+		<author>r荒川区Twitter</author>
+		<content:encoded><![CDATA[
+
+		]]></content:encoded>
+	</item>
+	<item>
+		<title>cvccvxcv132131232132xxc</title>
+		<pubDate>a2020-06-25T01:01:00+09:00</pubDate>
+		<author>a荒川区Twitter</author>
+		<content:encoded><![CDATA[
 		]]></content:encoded>
 	</item>
 </channel></rss>
