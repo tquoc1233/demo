@@ -6,20 +6,25 @@
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	>
-<channel>
-	<title>Test IFTTT title</title>
-	<description>Lovely tips for growing and monetizing your blog</description>
-	<link>https://www.google.com.vn/</link>
-	<item>
-		<title>Test IFTTT (2020 update)</title>
-		<pubDate>Wed, 24 Jun 2020 15:33:05 +0000</pubDate>
-		<description><![CDATA[<p>The post <a rel="nofollow" href="">Top 15 Funny Subreddits (2020 update)</a></p>]]></description>
-		<content:encoded><![CDATA[123213213213213]]></content:encoded>
-	</item>
-	<item>
-		<title>Test IFTTT 111111111111111111111111111111111111111111(2020 update)</title>
-		<pubDate>Wed, 24 Jun 2020 15:33:05 +0000</pubDate>
-		<content:encoded><![CDATA[123213213213213]]></content:encoded>
-	</item>
+	<channel>
+		<title>Test IFTTT title</title>
+		<description>Lovely tips for growing and monetizing your blog</description>
+		<link>https://www.google.com.vn/</link>
+		<item>
+			<title>Test IFTTT (2020 update)</title>
+			<link>https://www.google.com.vn/</link>
+			<pubDate>Wed, 24 Jun 2020 15:33:05 +0000</pubDate>
+			<guid isPermaLink="false">http://blog.oneupapp.io/?p=805</guid>
+			<description><![CDATA[<p>The post 1</p>]]></description>
+			<content:encoded><![CDATA[123213213213213]]></content:encoded>
+		</item>
+		<item>
+			<title>Test IFTTT 111111111111111111111111111111111111111111(2020 update)</title>
+			<link>https://www.google.com.vn/</link>
+			<pubDate>Wed, 24 Jun 2020 15:33:05 +0000</pubDate>
+			<guid isPermaLink="false">http://blog.oneupapp.io/?p=805</guid>
+			<description><![CDATA[<p>The post 2</p>]]></description>
+			<content:encoded><![CDATA[123213213213213]]></content:encoded>
+		</item>
 	</channel>
 </rss>
