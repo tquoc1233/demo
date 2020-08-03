@@ -19,6 +19,6 @@
 			<description><![CDATA[<p>The post 2</p>]]></description>
 			<content:encoded><![CDATA[123213213213213]]></content:encoded>
 		</item>
-		<atom:link href="http://www.asp.net/rss/content" rel="self" type="text/plain"/>
+		<atom:link href="https://raw.githubusercontent.com/tquoc1233/demo/master/rss_facebook4.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>
