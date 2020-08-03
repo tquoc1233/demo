@@ -1,24 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:atom="http://www.w3.org/2005/Atom"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	>
-<channel>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel>
 	<item>
-		<title>Top 15 Funny Subreddits (2020 update)</title>
-		<link>https://blog.oneupapp.io/funny-subreddits/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=funny-subreddits</link>
-				<pubDate>Wed, 24 Jun 2020 15:33:05 +0000</pubDate>
-		<dc:creator><![CDATA[Davis Baer]]></dc:creator>
-				<category><![CDATA[Uncategorized]]></category>
-
-		<guid isPermaLink="false">http://blog.oneupapp.io/?p=805</guid>
-				<description><![CDATA[<p>The post <a rel="nofollow" href="https://blog.oneupapp.io/funny-subreddits/">Top 15 Funny Subreddits (2020 update)</a></p>
-]]></description>
-								<content:encoded><![CDATA[123213213213213]]></content:encoded>
-							</item>
-	</channel>
-</rss>
-
+		<title>zapier22_new</title>
+		<pubDate>2020-08-4T01:01:00+09:00</pubDate>
+		<author>b荒川区Twitter</author>
+		<content:encoded><![CDATA[
+			<img alt="" src="https://www.glode.co.jp/_gh/images/a1.jpg" />
+		]]></content:encoded>
+	</item>
+	<item>
+		<title>zapier3333_new</title>
+		<pubDate>2020-08-4T01:01:00+09:00</pubDate>
+		<author>b荒川区Twitter</author>
+		<content:encoded><![CDATA[
+			<img alt="" src="https://www.glode.co.jp/_gh/images/a1.jpg" />
+		]]></content:encoded>
+	</item>
+</channel></rss>
