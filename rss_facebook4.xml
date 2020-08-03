@@ -10,6 +10,7 @@
 		<title>Test IFTTT title</title>
 		<description>Lovely tips for growing and monetizing your blog</description>
 		<link>https://www.google.com.vn/</link>
+		<atom:link href="https://raw.githubusercontent.com/tquoc1233/demo/master/rss_facebook4.xml" rel="self" type="application/rss+xml" />
 		<language>en</language>
 		<item>
 			<title>Test IFTTT 111111111111111111111111111111111111111111(2020 update)</title>
@@ -19,6 +20,5 @@
 			<description><![CDATA[<p>The post 2</p>]]></description>
 			<content:encoded><![CDATA[123213213213213]]></content:encoded>
 		</item>
-		<atom:link href="https://raw.githubusercontent.com/tquoc1233/demo/master/rss_facebook4.xml" rel="self" type="application/rss+xml" />
 	</channel>
 </rss>
