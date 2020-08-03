@@ -10,19 +10,13 @@
 		<title>Test IFTTT title</title>
 		<description>Lovely tips for growing and monetizing your blog</description>
 		<link>https://www.google.com.vn/</link>
-		<item>
-			<title>Test IFTTT (2020 update)</title>
-			<link>https://www.google.com.vn/</link>
-			<pubDate>Wed, 24 Jun 2020 15:33:05 +0000</pubDate>
-			<guid isPermaLink="false">http://blog.oneupapp.io/?p=805</guid>
-			<description><![CDATA[<p>The post 1</p>]]></description>
-			<content:encoded><![CDATA[123213213213213]]></content:encoded>
-		</item>
+		<language>en</language>
+		<atom:link href="http://www.asp.net/rss/content" rel="self" type="application/rss+xml"/>
 		<item>
 			<title>Test IFTTT 111111111111111111111111111111111111111111(2020 update)</title>
 			<link>https://www.google.com.vn/</link>
 			<pubDate>Wed, 24 Jun 2020 15:33:05 +0000</pubDate>
-			<guid isPermaLink="false">http://blog.oneupapp.io/?p=805</guid>
+			<guid isPermaLink="false">00000000-0000-0000-0000000057785</guid>
 			<description><![CDATA[<p>The post 2</p>]]></description>
 			<content:encoded><![CDATA[123213213213213]]></content:encoded>
 		</item>
