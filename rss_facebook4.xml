@@ -21,7 +21,7 @@
 	
 	<entry>
  <id>https://www.example.com/feed/item/100/</id>
- <pubDate>2020-08-04:47:25Z</pubDate>
+ <pubDate>2020-08-04T01:47:25Z</pubDate>
  <link rel="alternate" type="text/html" href="https://www.example.com/feed/item/100/"/>
  <title>Example Feed Content Item 100</title>
  <content type="html">
