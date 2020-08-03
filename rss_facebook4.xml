@@ -1,10 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+>
 	<channel>
 		<title>Test IFTTT title</title>
 		<description>Lovely tips for growing and monetizing your blog</description>
 		<link>https://www.google.com.vn/</link>
 		<language>en</language>
-		<atom:link href="http://www.asp.net/rss/content" rel="self" type="text/plain"/>
 		<item>
 			<title>Test IFTTT 111111111111111111111111111111111111111111(2020 update)</title>
 			<link>https://www.google.com.vn/</link>
@@ -13,5 +19,6 @@
 			<description><![CDATA[<p>The post 2</p>]]></description>
 			<content:encoded><![CDATA[123213213213213]]></content:encoded>
 		</item>
+		<atom:link href="http://www.asp.net/rss/content" rel="self" type="text/plain"/>
 	</channel>
 </rss>
